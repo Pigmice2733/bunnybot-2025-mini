@@ -1,4 +1,5 @@
-# offseason-bot-2024
+# Tiny robot for bunnybot 2025
+## ~~offseason-bot-2024~~
 This bot is our designated outreach bot. It intakes wiffle balls from the top and shoots them out the front.
 It has the following subsystems:
 - drivetrain with two wheels per side
